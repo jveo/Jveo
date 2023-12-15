@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesse Viau</h1>
 
-<p align="center">As a curious Software Engineer, I possess a constant enthusiasm for acquiring knowledge, embracing challenges, and finding excitement in resolving complex programming issues. My aim is to contribute positively to both the world and the people in my vicinity, with technology serving as my means to achieve that goal.</p>
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/jveo)
+<p align="center">As a curious Software Engineer, I possess a constant enthusiasm for acquiring knowledge, embracing challenges, and finding excitement in resolving complex programming issues. My aim is to produce high quality code, emphasizing maintainability and scalability while contributing positively to both the world and the people in my vicinity.</p>
 
 - 📝 Personal Website [jesseviau](https://www.jesseviau.com/)
 
