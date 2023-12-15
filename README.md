@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jesse Viau</h1>
+<h1 align="center">Hi 👋, I'm Jesse</h1>
 
 <p align="center">As a curious Software Engineer, I possess a constant enthusiasm for acquiring knowledge, embracing challenges, and finding excitement in resolving complex programming issues. My aim is to produce high quality code, emphasizing maintainability and scalability while contributing positively to both the world and the people in my vicinity.</p>
 
