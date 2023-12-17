@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jesse, a full stack software engineer</h1>
+<h1 align="center">Hi 👋, I'm Jesse</h1>
 
 <p align="center">I'm super enthusiastic and eager to acquire knowledge, embrace challenges, and I find excitement in resolving complex programming issues. My aim is to produce high quality code, emphasizing maintainability and scalability while contributing positively to both the world and the people around me.</p>
 
