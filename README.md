@@ -2,8 +2,6 @@
 
 <p align="center">I'm super enthusiastic and eager to acquire knowledge, embrace challenges, and I find excitement in resolving complex programming issues. My aim is to produce high quality code, emphasizing maintainability and scalability while contributing positively to both the world and the people around me.</p>
 
-- 📝 Personal Website [jesseviau](https://www.jesseviau.com/)
-
 - 📫 How to reach me **dev.jesseviau@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1raFHI4IqvcGq1BMu8WvfO0C4mBLqFflc/view)
