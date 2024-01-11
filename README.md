@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **dev.jesseviau@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hWL6aXohKf59AQmkaJdyIT0Q4Tx6toqF/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <!-- <a href="https://github.com/jveo" target="_blank">
