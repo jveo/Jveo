@@ -2,9 +2,8 @@
 
 <p align="center">I'm super enthusiastic and eager to acquire knowledge, embrace challenges, and I find excitement in resolving complex programming issues. My aim is to produce high quality code, emphasizing maintainability and scalability while contributing positively to both the world and the people around me.</p>
 
-- 📫 How to reach me **dev.jesseviau@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 dev.jesseviau@gmail.com
 <div align="center">
 <!-- <a href="https://github.com/jveo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
